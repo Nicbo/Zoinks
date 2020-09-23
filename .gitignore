@@ -1,0 +1,30 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Minecraft files so I don't get DMCA'd
+src/main/java/net/minecraft/
+
+# MCP stuff
+src/main/java/Start.java
+
+bin/
+conf/
+docs/
+jars/
+lib/
+logs/
+reobf/
+runtime/
+temp/
+
+CHANGELOG
+LICENSE.txt
+*.bat
+
+# IntelliJ
+out/
+*.iml
+*.ipr
+*.iws
+.idea/
